@@ -14,8 +14,8 @@ https://github.com/zalandoresearch/fashion-mnist
 
 | Model | Learning Rate | Test Accuracy | Test Loss |
 |------|------|------|------|
-| Model 1 | 0.001 | 87.59% | 0.3413 |
-| Model 2 | 0.01 | 83.78% | 0.4476 |
+| Model 1 | 0.001 | 88.01% | 0.3340 |
+| Model 2 | 0.01 | 85.02% | 0.4402 |
 
 ---
 
